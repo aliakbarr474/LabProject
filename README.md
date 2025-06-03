@@ -2,6 +2,9 @@
 
 Meditation App UI Design.
 
+![Screenshot 2025-06-03 231049](https://github.com/user-attachments/assets/21e523f4-903c-4405-9b2b-00e904913077)
+
+
 Meditation App UI Design built using Flutter. It is beautifully crafted meditation app UI built with Flutter, inspired by modern wellness app trends. This project showcases a complex UI design with smooth animations, reusable components, and responsive layouts suitable for real-world production use.
 
 ✅ Key Features
@@ -71,10 +74,5 @@ lib
 │   └── images/                # logo.png, icons, mask1.png, etc.
 └── utils/
     └── constants.dart         # Colors, text styles, etc.
-    
-  
-    ![Screenshot 2025-06-03 231049](https://github.com/user-attachments/assets/362cea3c-8ac0-49d0-98ba-27f05c177787)
 
 
-
-    
