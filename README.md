@@ -1,16 +1,5 @@
-# project
+# Lab Project
 
-A new Flutter project.
+Meditation App UI Design.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Meditation App UI Design built using Flutter. It is beautifully crafted meditation app UI built with Flutter, inspired by modern wellness app trends. This project showcases a complex UI design with smooth animations, reusable components, and responsive layouts suitable for real-world production use.
